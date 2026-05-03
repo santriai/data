@@ -1,7 +1,7 @@
 [
   {
-    "featureName": "AI Generation",
-    "query": "\n      Topik/Teks: \"\"Bab 1: Sifat Wajib - Aqidatul",
+    "featureName": "Analisis Kitab",
+    "query": "\"Bab 1: Sifat Wajib - Aqidatul Awam",
     "result": {
       "originalText": "Bab 1: Sifat Wajib - Aqidatul Awam",
       "matan": "فَاللَّهُ مَوْجُودٌ قَدِيمٌ بَاقِي # مُخَالِفٌ لِلْخَلْقِ بِالْإِطْلَاقِ . وَقَائِمٌ غَنِيٌّ وَوَاحِدٌ وَحَيّ # قَادِرْ مُرِيْدٌ عَالِمٌ بِكُلِّ شَيّ",
@@ -25,9 +25,9 @@
       "quranRef": "QS. Asy-Syura: 11 (Laisa kamitslihi syai'un)",
       "hadithRef": "HR. Bukhari & Muslim (Kallahu walam yakun syai'un ghoiruhu)"
     },
-    "type": "json_gen",
-    "created_at": "2026-05-03T18:56:26.931Z",
-    "id": "2ee27283-dab6-4279-a413-69e90186dc21",
+    "type": "kitab_analysis",
+    "created_at": "2026-05-03T18:56:34.167Z",
+    "id": "e6a7cd25-ee55-4a25-b063-fc0fe9c12ef0",
     "username": "AI Santri"
   },
   {
