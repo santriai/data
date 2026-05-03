@@ -1,0 +1,21 @@
+{
+  "name": "Aqidatul Awam",
+  "desc": "Kitab matan berbentuk nadhom (syair) yang merangkum pokok-pokok akidah Islamiyah bagi kalangan awam berdasarkan manhaj Ahlus Sunnah wal Jamaah.",
+  "author": "Al-Allamah as-Sayyid Ahmad al-Marzuqi al-Maliki al-Hasani",
+  "year": "Wafat 1262 H / 1846 M (Disusun pada tahun 1258 H / 1841 M)",
+  "category": "Aqidah",
+  "longDesc": "Kitab Aqidatul Awam merupakan salah satu literatur paling ikonik dalam khazanah keilmuan Islam, khususnya di lingkungan pesantren di Nusantara. Kitab ini ditulis dalam bentuk nazham (syair) menggunakan bahar rajaz untuk memudahkan para pelajar pemula (awam) dalam menghafal dan memahami pondasi keimanan. Penulisan kitab ini dilatarbelakangi oleh sebuah riwayat yang menyebutkan bahwa penulis bermimpi bertemu Rasulullah SAW yang mengajarkan bait-bait syair akidah tersebut, yang kemudian disempurnakan oleh penulis hingga menjadi teks yang kita kenal sekarang.\n\nSecara substansi, kitab ini memuat konsep 'Aqaid al-Khamsin' atau lima puluh akidah yang mencakup sifat wajib, mustahil, dan jaiz bagi Allah SWT, serta sifat wajib, mustahil, dan jaiz bagi para Rasul. Selain membahas tentang ketuhanan dan kenabian, Syekh Ahmad al-Marzuqi juga memasukkan poin-poin penting mengenai sam'iyyat, yaitu hal-hal yang diketahui melalui dalil naqli seperti nama-nama Malaikat, Kitab-kitab suci, serta silsilah keluarga Nabi Muhammad SAW. Pendekatan yang digunakan adalah teologi Asy'ariyah yang menjadi standar mayoritas umat Islam di dunia.\n\nKedudukan kitab ini sangat fundamental karena menjadi gerbang awal bagi setiap Muslim untuk mengenal agamanya secara sistematis namun ringkas. Meskipun ukurannya kecil, kitab ini telah disyarah (dijelaskan lebih detail) oleh banyak ulama besar, termasuk oleh penulisnya sendiri dalam kitab 'Jala' al-Afham' dan oleh Syekh Nawawi al-Bantani dalam 'Nuruzh Zhalam'. Hingga saat ini, Aqidatul Awam tetap menjadi kurikulum wajib di madrasah-madrasah tradisional karena keindahan bahasanya dan kemurnian ajaran tauhid yang disampaikannya.",
+  "chapters": [
+    "Muqaddimah (Pujian kepada Allah dan Shalawat)",
+    "Bab Sifat-sifat Wajib bagi Allah",
+    "Bab Sifat-sifat Mustahil bagi Allah",
+    "Bab Sifat Jaiz bagi Allah",
+    "Bab Mengimani Para Rasul dan Sifat-sifatnya",
+    "Bab Nama-nama 25 Nabi dan Rasul",
+    "Bab Mengenal Malaikat dan Tugas-tugasnya",
+    "Bab Kitab-kitab Suci dan Para Penerimanya",
+    "Bab Silsilah dan Keluarga Nabi Muhammad SAW",
+    "Bab Peristiwa Isra' dan Mi'raj",
+    "Khatimah (Penutup, Jumlah Bait, dan Doa)"
+  ]
+}
