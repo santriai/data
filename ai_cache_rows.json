@@ -1,0 +1,162 @@
+[
+  {
+    "featureName": "AI Generation",
+    "query": "\n          Sebutkan 20-50 Kitab Kuning populer unt",
+    "result": [
+      {
+        "name": "Aqidatul Awam",
+        "author": "Syekh Ahmad al-Marzuqi",
+        "desc": "Kitab nazhom populer yang berisi dasar-dasar akidah bagi pemula dalam bentuk bait-bait syair."
+      },
+      {
+        "name": "Tuhfatul Murid",
+        "author": "Syekh Ibrahim al-Bajuri",
+        "desc": "Syarah mendalam atas matan Jauharatut Tauhid yang menjadi rujukan utama teologi Asy'ariyah."
+      },
+      {
+        "name": "Jauharatut Tauhid",
+        "author": "Syekh Ibrahim al-Laqqani",
+        "desc": "Kitab nazhom puitis yang merangkum pokok-pokok teologi Ahlussunnah wal Jama'ah."
+      },
+      {
+        "name": "Ummul Barahin",
+        "author": "Syekh Muhammad bin Yusuf as-Sanusi",
+        "desc": "Kitab rujukan utama dalam memahami konsep sifat dua puluh bagi Allah dan Rasul."
+      },
+      {
+        "name": "Tijan ad-Darari",
+        "author": "Syekh Nawawi al-Bantani",
+        "desc": "Penjelasan ringkas namun padat mengenai sifat wajib, mustahil, dan jaiz bagi Allah."
+      },
+      {
+        "name": "Kifayatul Awam",
+        "author": "Syekh Muhammad al-Fudali",
+        "desc": "Kitab yang menguraikan dalil-dalil logika untuk memperkuat keyakinan tauhid bagi kaum awam."
+      },
+      {
+        "name": "Al-Iqtisad fil I'tiqad",
+        "author": "Imam al-Ghazali",
+        "desc": "Karya monumental yang membahas teologi dengan pendekatan moderat dan argumentatif."
+      },
+      {
+        "name": "Fathul Majid",
+        "author": "Syekh Nawawi al-Bantani",
+        "desc": "Syarah atas kitab Ad-Durratul Bahiyyah yang menjelaskan akidah secara sistematis."
+      },
+      {
+        "name": "Nuruzh Zhalam",
+        "author": "Syekh Nawawi al-Bantani",
+        "desc": "Penjelasan komprehensif atas nazhom Aqidatul Awam untuk tingkat menengah."
+      },
+      {
+        "name": "Syarah al-Kharidah al-Bahiyyah",
+        "author": "Imam Ahmad ad-Dardir",
+        "desc": "Kitab yang sering dipelajari di pesantren untuk memahami dasar-dasar ilmu kalam mazhab Asy'ari."
+      },
+      {
+        "name": "Risalah Ahlussunnah wal Jama'ah",
+        "author": "KH Hasyim Asy'ari",
+        "desc": "Karya pendiri NU yang merumuskan identitas dan pondasi teologis Aswaja di Indonesia."
+      },
+      {
+        "name": "Qathrul Ghais",
+        "author": "Syekh Nawawi al-Bantani",
+        "desc": "Penjelasan mendalam mengenai rukun iman dan hal-hal metafisika dalam Islam."
+      },
+      {
+        "name": "Al-Aqidah ath-Thahawiyyah",
+        "author": "Imam Abu Ja'far ath-Thahawi",
+        "desc": "Pernyataan akidah klasik yang disepakati oleh mayoritas ulama Sunni lintas mazhab."
+      },
+      {
+        "name": "Syarah al-Aqidah an-Nasafiyyah",
+        "author": "Imam Sa'duddin at-Taftazani",
+        "desc": "Kitab rujukan tinggi dalam teologi Maturidiyah yang sangat analitis dan filosofis."
+      },
+      {
+        "name": "Al-Fiqh al-Akbar",
+        "author": "Imam Abu Hanifah",
+        "desc": "Salah satu karya paling awal dalam sejarah teologi Islam yang membahas pokok-pokok iman."
+      },
+      {
+        "name": "Husunul Hamidiyyah",
+        "author": "Syekh Husain al-Jisr",
+        "desc": "Kitab yang ditulis untuk membentengi akidah Islam dari tantangan pemikiran modern dan sains."
+      },
+      {
+        "name": "Al-Asma' wa ash-Shifat",
+        "author": "Imam al-Baihaqi",
+        "desc": "Himpunan dalil Al-Qur'an dan Hadis mengenai nama-nama dan sifat-sifat Allah secara tekstual."
+      },
+      {
+        "name": "Luma' al-Adillah",
+        "author": "Imam al-Haramain al-Juwaini",
+        "desc": "Pengantar metodologis yang ringkas menuju argumentasi teologis tingkat tinggi."
+      },
+      {
+        "name": "Al-Ibanah 'an Ushul ad-Diyanah",
+        "author": "Imam Abu al-Hasan al-Ash'ari",
+        "desc": "Kitab penting yang menjelaskan pembelaan terhadap akidah salaf oleh pendiri mazhab Ash'ari."
+      },
+      {
+        "name": "Risalah al-Mu'awanah",
+        "author": "Imam Abdullah bin Alawi al-Haddad",
+        "desc": "Mengandung dasar-dasar akidah praktis yang digabungkan dengan bimbingan akhlak harian."
+      },
+      {
+        "name": "Syarah Sughra as-Sughra",
+        "author": "Syekh Muhammad bin Yusuf as-Sanusi",
+        "desc": "Versi paling ringkas dari rangkaian kitab akidah Sanusiyah untuk mempermudah pemahaman."
+      },
+      {
+        "name": "Ad-Durrah al-Yatimah",
+        "author": "Syekh Nawawi al-Bantani",
+        "desc": "Risalah singkat mengenai rukun iman yang sangat populer di kalangan santri tingkat dasar."
+      },
+      {
+        "name": "Al-Inshaf",
+        "author": "Imam al-Baqillani",
+        "desc": "Karya klasik yang membahas prinsip-prinsip ketuhanan dengan argumen rasional yang kuat."
+      },
+      {
+        "name": "Sullamul Munajat",
+        "author": "Syekh Nawawi al-Bantani",
+        "desc": "Kitab syarah yang memadukan pengenalan sifat Allah dengan tata cara ibadah shalat."
+      },
+      {
+        "name": "Bad-ul Amali",
+        "author": "Imam Sirajuddin al-Ushi",
+        "desc": "Kitab nazhom terkenal yang menjadi standar pengajaran teologi mazhab Maturidiyah."
+      },
+      {
+        "name": "Qawa'id al-Aqa'id",
+        "author": "Imam al-Ghazali",
+        "desc": "Bagian dari Ihya Ulumuddin yang menguraikan pilar-pilah keyakinan secara sistematis."
+      },
+      {
+        "name": "Dhaw'ul Ma'ali",
+        "author": "Syekh Ali al-Qari",
+        "desc": "Komentar penting atas nazhom Bad-ul Amali untuk memperjelas poin-poin akidah."
+      },
+      {
+        "name": "Al-Tamhid fi Bayan al-Tawhid",
+        "author": "Imam Abu Syakur as-Salimi",
+        "desc": "Teks otoritatif dalam mazhab Maturidi yang membahas masalah ketuhanan secara luas."
+      },
+      {
+        "name": "I'tiqad Ahlussunnah wal Jama'ah",
+        "author": "KH Siradjuddin Abbas",
+        "desc": "Buku populer di Nusantara yang memetakan sejarah dan ajaran mazhab teologi Sunni."
+      },
+      {
+        "name": "Asy-Syarqawi 'ala al-Hudhudi",
+        "author": "Syekh Abdullah asy-Syarqawi",
+        "desc": "Syarah tingkat lanjut yang membedah logika teologi Sanusiyah dengan sangat mendalam."
+      }
+    ],
+    "type": "json_gen",
+    "created_at": "2026-05-03T18:47:13.249Z",
+    "id": "cb94cdf5-60de-402d-b313-8b06f9b00660",
+    "username": "AI Santri"
+  }
+]
